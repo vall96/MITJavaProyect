@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Conexion a la base 
+-->
+
+<config>
+    <DB_Provider>jdbc:sqlserver</DB_Provider>
+    <DB_Server>localhost</DB_Server>
+    <DB_Port>1433</DB_Port>
+    <DB_DataBaseName>Digitel</DB_DataBaseName>
+    <DB_User>mit</DB_User>
+    <DB_Password>mit</DB_Password>
+    <DB_DriverClass>com.microsoft.sqlserver.jdbc.SQLServerDriver</DB_DriverClass>
+</config>
